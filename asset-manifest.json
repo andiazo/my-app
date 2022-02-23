@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/logistic-app/static/css/main.073c9b0a.css",
-    "main.js": "/logistic-app/static/js/main.c0315af7.js",
-    "static/js/787.83c32ede.chunk.js": "/logistic-app/static/js/787.83c32ede.chunk.js",
-    "static/media/logo.svg": "/logistic-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/logistic-app/index.html",
-    "main.073c9b0a.css.map": "/logistic-app/static/css/main.073c9b0a.css.map",
-    "main.c0315af7.js.map": "/logistic-app/static/js/main.c0315af7.js.map",
-    "787.83c32ede.chunk.js.map": "/logistic-app/static/js/787.83c32ede.chunk.js.map"
+    "main.css": "/my-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-app/static/js/main.b47a6a9c.js",
+    "static/js/787.83c32ede.chunk.js": "/my-app/static/js/787.83c32ede.chunk.js",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.073c9b0a.css.map": "/my-app/static/css/main.073c9b0a.css.map",
+    "main.b47a6a9c.js.map": "/my-app/static/js/main.b47a6a9c.js.map",
+    "787.83c32ede.chunk.js.map": "/my-app/static/js/787.83c32ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c0315af7.js"
+    "static/js/main.b47a6a9c.js"
   ]
 }
